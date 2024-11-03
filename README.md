@@ -1,4 +1,4 @@
-The Term Paper will build on the Research Paper (Research Paper.pdf) and utilize its data (found in the Paper's Data folder). 
+The Research Paper will build on the Reference Paper (Reference Paper.pdf) and utilize its data (found in the Paper's Data folder). 
 
 Portions of the Python code, including data cleaning, data preparation, and segments of the regression analysis, have been adapted from the Stata code provided in Kaboski and Townsend's paper:
 
